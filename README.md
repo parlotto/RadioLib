@@ -1,3 +1,5 @@
+# fork repo to test some ideas : please use original repo : https://github.com/jgromes/RadioLib
+
 # RadioLib ![Build Status](https://github.com/jgromes/RadioLib/workflows/CI/badge.svg)
 
 ### _One radio library to rule them all!_
